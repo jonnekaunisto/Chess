@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<board>
+	<piece id="Rook">
+		<side>B</side>
+		<firstmove>true</firstmove>
+		<enpassant>false</enpassant>
+		<location>00</location>
+	</piece>
+	<piece id="Knight">
+		<side>B</side>
+		<firstmove>true</firstmove>
+		<enpassant>false</enpassant>
+		<location>10</location>
+	</piece>
+</board>
